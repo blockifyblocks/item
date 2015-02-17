@@ -1,0 +1,14 @@
+{
+  "name": "item",
+  "description": "Create list items with this block",
+  "authors": [
+    "Blockify <info@blockify.co> (http://blockify.co/)"
+  ],
+  "defaults": {
+    "name": "Item",
+    "url": "#"
+  },
+  "version": "1.0.0",
+  "main": "item.php",
+  "license": "MIT"
+}
